@@ -23,13 +23,14 @@
 
 ## 数学
 * <a href="https://www.bilibili.com/video/av22633208">丘维声《高等代数》</a>（给清华大学2011级物理系）
-* <a href="https://www.bilibili.com/video/av19027609/?p=88">乐经良等《高等数学》</a>|（上海交通大学）
+* <a href="https://www.bilibili.com/video/av19027609/?p=88">乐经良等《高等数学》</a>（上海交通大学）
 * <a href="https://www.bilibili.com/video/av18844091">史济怀《数学分析》</a>（中科大少年班）
 * <a href="https://www.bilibili.com/video/av17582696">缪柏其《概率论与数理统计》</a>（中科大公开课）
 
 
 ## 扩展:
-* 徐立臻《数据库原理及应用》(东南大学)
+
+* <a href="https://www.bilibili.com/video/av14710005">徐立臻《数据库原理及应用》</a>(东南大学)
 * 数据库应用 （CMU 15-415/615）
 * 数据库系统（CMU 15-445/645） 视频
 * 高级数据库系统（CMU 15-721） 视频
