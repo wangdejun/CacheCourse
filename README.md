@@ -12,11 +12,14 @@
 * <a href="http://web.mit.edu/6.033/www/">计算机网络(MIT6.033)</a><small>(MIT6.033，MIT6.824分布式系统的前置课程，与网络相关)</small>
 * 深入理解计算机系统 《Introduction to Computer Systems》（CMU 15-213）
   * 课本：深入理解计算机系统《CS:APP》，author:Randy Bryant
+  * 视频https://www.bilibili.com/video/av20304787/?p=12
 
 ## 基础课程视频
-* 陆俊林《组成原理》(北京大学coursera，MIPS 精简指令系统)
-* 陈渝，向勇《操作系统》（清华大学）
-* 邓俊辉《数据结构与算法》（清华大学mooc）|  陈越，何钦铭《数据结构》(浙江大学mooc)
+
+* <a href="https://www.bilibili.com/video/av9647631/">陆俊林《组成原理》</a>(北京大学coursera，MIPS 精简指令系统)
+* <a href="https://www.bilibili.com/video/av6538245/">陈渝，向勇《操作系统》</a>（清华大学）
+* <a href="https://www.bilibili.com/video/av49361421/">邓俊辉《数据结构与算法》</a>（清华大学mooc）
+* <a href="https://www.icourse163.org/learn/ZJU-93001?tid=1003013004#/learn/content?type=detail&id=1004242194&cid=1005239388">陈越，何钦铭《数据结构》</a>(浙江大学mooc)
 
 ## 数学基础知识
 * 丘维声《高等代数》 （给清华大学2011级物理系）
