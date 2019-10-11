@@ -5,7 +5,7 @@
 
 
 # 基础课程材料
-* <a href="https://cs61c.org/"><img src="https://cs61c.org/assets/icon-small.png"/>计算机组成原理(Berkeley CS61C)</a>
+* <a href="https://cs61c.org/"><img src="https://cs61c.org/assets/icon-small.png" style="width:20px;height:20px;"/>计算机组成原理(Berkeley CS61C)</a>
 * 计算机操作系统(Berkeley CS162)
 * 数据结构（java,Berkeley CS61B）
 * 算法（Berkeley CS170）
